@@ -1,4 +1,8 @@
+**Note: We've moved the active work on this repo to https://github.com/dmlc/mxnet/tree/master/docs. If you are looking for docs related to a new, dynamic, elegant and easy to use imperative interface for MXNet, check out http://gluon.mxnet.io/ or https://github.com/zackchase/mxnet-the-straight-dope**
+
+
 # MXNet Notebooks
+
 
 This repo contains various notebooks ranging from basic usages of MXNet to
 state-of-the-art deep learning applications.
@@ -50,7 +54,7 @@ The python notebooks are written in [Jupyter](http://jupyter.org/).
    5. Now we are able to view and edit the notebooks on the browser using the URL: http://localhost:8888/tree/mxnet-notebooks/python/outline.ipynb
 
 
-## How to develope
+## How to develop
 
 Some general guidelines
 
